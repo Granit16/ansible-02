@@ -28,6 +28,6 @@
     
     Ошибок нет, имеются несклолько предупреждений
 
-    ![](https://github.com/Granit16/ansible-01/blob/main/screenshots/lint.png)
+    ![](https://github.com/Granit16/ansible-02/blob/main/screenshots/lint.png)
 
 </details>
